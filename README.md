@@ -7,7 +7,7 @@ This project demonstrates real-world shopping cart functionality with a clean UI
 
 ## 🚀 Live Demo
 
-👉 (Add your deployed link here after hosting)
+👉(https://smart-store-nine.vercel.app/)
 
 ---
 
